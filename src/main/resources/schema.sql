@@ -1,0 +1,1 @@
+-- optional initial SQL; H2 will auto-create tables via hbm2ddl

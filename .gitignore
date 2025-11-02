@@ -8,3 +8,6 @@ target/
 *.log
 hs_err_pid*
 replay_pid*
+node_modules/
+package-lock.json
+package.json
